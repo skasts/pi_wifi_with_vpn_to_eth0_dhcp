@@ -1,5 +1,8 @@
 # Internet sharing with VPN on RPi
 
+## Check public IP
+`curl ifconfig.me`
+
 ## Connect to WIFI networks
 
 Scan for networks and list them
